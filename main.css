@@ -6,5 +6,6 @@ color: darkblue;
 paragraph {
     color: pink;
     background-color: darkgoldenrod;
+    font-style: italic;
 }
 
